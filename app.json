@@ -1,0 +1,42 @@
+{
+  "app": {
+    "appId": 2065468270,
+    "appIdType": 0,
+    "appName": "HelloWorld",
+    "appType": "app",
+    "description": "",
+    "icon": "icon.png",
+    "vender": "lava_frai",
+    "version": {
+      "code": 1,
+      "name": "1.0.0"
+    }
+  },
+  "configVersion": "v2",
+  "debug": false,
+  "i18n": {},
+  "module": {
+    "page": {
+      "pages": [
+        "page/index"
+      ],
+      "window": {
+        "backgroundColor": "#eeeeee",
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": ""
+      }
+    }
+  },
+  "permissions": [
+    "gps"
+  ],
+  "runtime": {
+    "apiVersion": {
+      "compatible": "1.0.0",
+      "minVersion": "1.0.0",
+      "target": "1.0.1"
+    }
+  }
+}
